@@ -1,3 +1,8 @@
+##### links
+
+[GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI) (this example is based on this tutorial)  
+[Original code](https://github.com/nanuchi/my-project)  
+
 ##### build the project
 
     ./gradlew build
